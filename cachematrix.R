@@ -1,4 +1,3 @@
-## Write a short comment describing this function
 ## makeCacheMatrix creates a list which contains 
 ## following functions
 ## set the value of the matrix
